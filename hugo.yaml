@@ -3,6 +3,7 @@ languageCode: "en-us"
 theme: ["PaperMod"]
 params:
   customCSS: ["css/custom.css"]
+  enableDarkMode: true
 markup:
   goldmark:
     renderer:
@@ -16,7 +17,7 @@ languages:
     contentDir: "content/en"
     params:
       homeInfoParams:
-        Title: "Hi there 👋"
+        Title: "Kurzgesicht"
         Content: "Welcome to my site."
       ShowLanguageSwitcher: true
     title: "My Hugo Site"
@@ -38,7 +39,7 @@ languages:
     languageDirection: rtl
     params:  
       homeInfoParams:
-        Title: "مرحبا 👋"
+        Title: "ولا تهنوا ولا تحزنوا"
         Content: "مرحبًا بك في موقعي الشخصي."
       ShowLanguageSwitcher: true
     title: "موقعي الشخصي"
