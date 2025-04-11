@@ -1,0 +1,11 @@
+:root {
+    --body-bg: #ffffff !important;
+  }
+
+  /* Import Cairo font */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
+/* Apply Cairo font only to Arabic content */
+:lang(ar) {
+  font-family: 'Cairo', sans-serif !important;
+}

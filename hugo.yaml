@@ -1,0 +1,54 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+theme: ["PaperMod"]
+params:
+  customCSS: ["css/custom.css"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+    params:
+      homeInfoParams:
+        Title: "Hi there 👋"
+        Content: "Welcome to my site."
+      ShowLanguageSwitcher: true
+    title: "My Hugo Site"
+    menu:
+      main:
+        - identifier: blog
+          name: Blog
+          url: /posts/
+          weight: 1    
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 2  
+
+  ar:
+    languageName: "العربية"
+    weight: 2
+    contentDir: "content/ar"
+    languageDirection: rtl
+    params:  
+      homeInfoParams:
+        Title: "مرحبا 👋"
+        Content: "مرحبًا بك في موقعي الشخصي."
+      ShowLanguageSwitcher: true
+    title: "موقعي الشخصي"
+    menu:
+      main:
+        - identifier: blog
+          name: مدونة
+          url: /posts/
+          weight: 1
+        - identifier: about
+          name: من انا
+          url: /about/
+          weight: 2
