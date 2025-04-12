@@ -1,11 +1,9 @@
-:root {
-    --body-bg: #ffffff !important;
+/* Override --code-bg for the light theme */
+body:not(.dark) {
+    --code-bg: #ffffff !important;  /* Change this to your desired color */
   }
-
-  /* Import Cairo font */
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
-
-/* Apply Cairo font only to Arabic content */
-:lang(ar) {
-  font-family: 'Cairo', sans-serif !important;
-}
+  
+  /* Additional styles */
+  body {
+    background-color: #ffffff !important;  /* If you want a white background */
+  }
