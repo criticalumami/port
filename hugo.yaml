@@ -5,6 +5,7 @@ params:
   customCSS: ["css/custom.css"]
   defaultTheme: auto
   favicon: "img/favicon.png"
+
 markup:
   goldmark:
     renderer:
