@@ -2,9 +2,7 @@ baseURL: "https://hirab.netlify.app"
 languageCode: "en-us"
 theme: ["PaperMod"]
 params:
-  customCSS: ["css/custom.css"]
   defaultTheme: auto
-  favicon: "img/favicon.png"
 
 markup:
   goldmark:
@@ -55,3 +53,5 @@ languages:
           name: من انا
           url: /about/
           weight: 2
+
+favicon: "img/favicon.png"

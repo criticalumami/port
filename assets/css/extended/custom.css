@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+body:lang(ar), html:lang(ar) {
+    font-family: 'Cairo', sans-serif !important;
+    font-display: swap; /* Ensures the font loads quickly */
+}
+
+/* Override --code-bg for the light theme */
+body:not(.dark) {
+    --code-bg: #ffffff !important;  /* Change this to your desired color */
+    background-color: #ffffff !important;
+}
+
+/* Additional styles */
+footer {
+    display: none !important;
+}
+
+body.dark {
+    background-color: #000000 !important;
+}
+
+body.dark iframe {
+  filter: invert(1) hue-rotate(180deg);
+}
