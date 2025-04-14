@@ -3,7 +3,11 @@ date: '2025-04-11T16:08:58+03:00'
 draft: false
 title: 'Pedestrian Networks in Beirut'
 translationKey: "welcome-post"
-featuredImage: "/img/cola.png"
+cover:
+  image: "/img/cola.png"
+  alt: "cola roundabout in beirut"
+  caption: "S07 - Cola Roundabout"
+  relative: false 
 ---
 
 Analytical maps for the rehabilitation of the pedestrian network in the Cola area, central Beirut. The main public transportation hub was studied and transformed into a pedestrian- and soft mobility-friendly zone. 
@@ -21,3 +25,4 @@ How could I ignore this encroachment, when I have for decades witnessed the calc
 <br>
 <iframe src="https://sima-yf.netlify.app" width="100%" height="800" style="border: none;"></iframe>
 <br>
+This transformation addresses not only infrastructure but also the cultural and social implications of reclaiming public space. By enhancing pedestrian access and comfort, these interventions encourage community interaction, reduce traffic congestion, and foster sustainable mobility for future generations.
