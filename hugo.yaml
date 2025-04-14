@@ -56,4 +56,5 @@ languages:
           weight: 2
 
 favicon: "favicon.ico"
+
 featuredImage: "img/cola.png"
