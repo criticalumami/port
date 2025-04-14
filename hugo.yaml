@@ -55,4 +55,5 @@ languages:
           url: /about/
           weight: 2
 
-favicon: "img/favicon.png"
+favicon: "favicon.ico"
+featuredImage: "img/cola.png"
