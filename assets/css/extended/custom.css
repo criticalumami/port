@@ -2,8 +2,11 @@
 
 body:lang(ar), html:lang(ar) {
     font-family: 'Cairo', sans-serif !important;
-    font-display: swap; /* Ensures the font loads quickly */
 }
+
+[lang="ar"] {
+    font-family: 'Cairo', sans-serif !important;
+}  /* Added closing brace for the [lang="ar"] selector */
 
 /* Override --code-bg for the light theme */
 body:not(.dark) {
