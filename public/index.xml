@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Amer Jbeili </title>
-    <link>http://localhost:49699/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Amer Jbeili </description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Apr 2025 16:08:58 +0300</lastBuildDate>
-    <atom:link href="http://localhost:49699/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pedestrian Networks in Beirut</title>
-      <link>http://localhost:49699/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 11 Apr 2025 16:08:58 +0300</pubDate>
-      <guid>http://localhost:49699/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Analytical maps for the rehabilitation of the pedestrian network in the Cola area, central Beirut. The main public transportation hub was studied and transformed into a pedestrian- and soft mobility-friendly zone.&lt;/p&gt;
 &lt;p&gt;How could I ignore this encroachment, when I have for decades witnessed the calculated planning advancing upon my nation and homeland from every direction, achieving all—or at least some—of what it wants, day after day and year after year? That is why I have never picked up the pen without firmly believing I carry a responsibility: either I fulfill it properly, or I crush this pen beneath my feet without regret for it or for myself.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:49699/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49699/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;i am god&lt;/p&gt;</description>
     </item>
   </channel>
