@@ -6,6 +6,18 @@ translationKey: "welcome-post"
 featuredImage: "/img/cola.png"
 ---
 
-<iframe src="https://sima-cr.netlify.app" width="100%" height="800" style="border: none;"></iframe>
+Analytical maps for the rehabilitation of the pedestrian network in the Cola area, central Beirut. The main public transportation hub was studied and transformed into a pedestrian- and soft mobility-friendly zone. 
 
-Analytical cartography of pedestrian network rehabilitation in the Cola region of the capital Beirut. The central mass transit hub was studied and transformed inito a pedestrian and soft mobility friendly area.
+How could I ignore this encroachment, when I have for decades witnessed the calculated planning advancing upon my nation and homeland from every direction, achieving all—or at least some—of what it wants, day after day and year after year? That is why I have never picked up the pen without firmly believing I carry a responsibility: either I fulfill it properly, or I crush this pen beneath my feet without regret for it or for myself.
+
+<br>
+<iframe src="https://sima-cr.netlify.app" width="100%" height="800" style="border: none;"></iframe>
+<br>
+
+Analytical maps for the rehabilitation of the pedestrian network in the Cola area, central Beirut. The main public transportation hub was studied and transformed into a pedestrian- and soft mobility-friendly zone. 
+
+How could I ignore this encroachment, when I have for decades witnessed the calculated planning advancing upon my nation and homeland from every direction, achieving all—or at least some—of what it wants, day after day and year after year? That is why I have never picked up the pen without firmly believing I carry a responsibility: either I fulfill it properly, or I crush this pen beneath my feet without regret for it or for myself.
+
+<br>
+<iframe src="https://sima-yf.netlify.app" width="100%" height="800" style="border: none;"></iframe>
+<br>

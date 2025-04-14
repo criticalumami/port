@@ -26,3 +26,7 @@ body.dark {
 body.dark iframe {
   filter: invert(1) hue-rotate(180deg);
 }
+
+body.dark img {
+    filter: invert(1) hue-rotate(180deg);
+  }

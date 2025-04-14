@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>مدونة on عامر الجبيلي</title>
-    <link>http://localhost:49699/ar/posts/</link>
+    <link>http://localhost:1313/ar/posts/</link>
     <description>Recent content in مدونة on عامر الجبيلي</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ar</language>
     <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49699/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ar/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>منطقة الكولا</title>
-      <link>http://localhost:49699/ar/posts/marhaban/</link>
+      <link>http://localhost:1313/ar/posts/marhaban/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49699/ar/posts/marhaban/</guid>
+      <guid>http://localhost:1313/ar/posts/marhaban/</guid>
       <description>&lt;br&gt;
 &lt;iframe src=&#34;https://sima-cr.netlify.app&#34; width=&#34;100%&#34; height=&#34;800&#34; style=&#34;border: none;&#34;&gt;&lt;/iframe&gt;
 &lt;br&gt;
