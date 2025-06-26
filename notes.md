@@ -19,32 +19,34 @@
 	1. Social media content
 	2. SCW (very weak approach)
 	3. RC booklet (inDesign)
-6. Videography and scripts:
-	1. Sifr magazine videographic content (could be social media)
+6. Videographik and scripts:
+	1. Sifr magazine video graphic content (could be social media)
 	2. Sound design for the video
 	3. Package personal projects into a website
 	4. Prop scripts writing
 	5. Militant pamphlets
 
 
-- Should the length of the academic cursus be discuyssed in length at the start 
+- Should the length of the academic cursus be discussed in length at the start 
   or would it better be served as a side note or as an afterthought at the end
   at the end of the document (reconsider this and act accordingly).
 - This is a test for the pandoc or TeX export of the Markdown document. 
 - Enumeration of the different peculiar skills picked up during academic studies.
-- Early interest in 3D modeling and especially BIM developpement tools.
+- Early interest in 3D modeling and especially BIM development tools.
 - Berlin escapade and work on curating and renovating existing structure for 
   polyvalent uses.
 - Interest albeit critical one in contemporary arts and its relationship to 
   capital and architecture.
 - Interest in urban planning and the organization of the city along empirical 
-  data collection, more importntly the focus on the centrality of open source 
+  data collection, more importantly the focus on the centrality of open source 
   data in poorly studied geographies of the global south. Lebanon and Beirut being
   examplary in this regard.
 - Critical approach to the beirut urban lab processes and development of 
-  of pseud-accessible datasets.
-- Organization of sparcely distributed datasets and their aggregation into a 
+  of pseud-accessible data sets.
+- Organization of sparsely distributed data sets and their aggregation into a 
   coherent project for the UNOPS
-- Critical review of the UNOPS experience without divuldging much of the 
-  publiclly acce3ssible names, privacy and censor should beused extensively.
-- 
+- Critical review of the UNOPS experience without divulging much of the 
+  publicly accessible names, privacy and censor should be used extensively.
+
+
+
