@@ -26,3 +26,12 @@ How could I ignore this encroachment, when I have for decades witnessed the calc
 <iframe src="https://sima-yf.netlify.app" width="100%" height="800" style="border: none;"></iframe>
 <br>
 This transformation addresses not only infrastructure but also the cultural and social implications of reclaiming public space. By enhancing pedestrian access and comfort, these interventions encourage community interaction, reduce traffic congestion, and foster sustainable mobility for future generations.
+
+
+On the origin of the returning side of tomorrow's content management rules we thereby address these issues with the utmost respect for most of our
+
+On the other hand taking into account the other files we thereby urge you to re-consider the previously take decision of passively accepting all incoming connections from this machine all the while refusing to implement such policy in your own organization.
+
+Thank you for your understanding,
+Truly yours,
+Amer.
