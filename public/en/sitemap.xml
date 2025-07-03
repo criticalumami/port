@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hirab.netlify.app/posts/academ/</loc>
+    <loc>http://localhost:1313/posts/academ/</loc>
     <lastmod>2025-04-11T16:08:58+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/posts/repercussion/"
+                href="http://localhost:1313/posts/repercussion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/posts/academ_ar/"
+                href="http://localhost:1313/ar/posts/academ_ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/posts/academ/"
+                href="http://localhost:1313/posts/academ/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/posts/repercussion/</loc>
+    <loc>http://localhost:1313/posts/repercussion/</loc>
     <lastmod>2025-04-11T16:08:58+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/posts/academ/"
+                href="http://localhost:1313/posts/academ/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/posts/academ_ar/"
+                href="http://localhost:1313/ar/posts/academ_ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/posts/repercussion/"
+                href="http://localhost:1313/posts/repercussion/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-11T16:08:58+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/"
+                href="http://localhost:1313/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/posts/sifr/</loc>
+    <loc>http://localhost:1313/posts/sifr/</loc>
     <lastmod>2025-04-11T16:08:58+03:00</lastmod>
   </url><url>
-    <loc>https://hirab.netlify.app/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-04-11T16:08:58+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/posts/marhaban/"
+                href="http://localhost:1313/ar/posts/marhaban/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/posts/hello-world/"
+                href="http://localhost:1313/posts/hello-world/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/about/"
+                href="http://localhost:1313/ar/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/categories/"
+                href="http://localhost:1313/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://hirab.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hirab.netlify.app/ar/tags/"
+                href="http://localhost:1313/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hirab.netlify.app/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
